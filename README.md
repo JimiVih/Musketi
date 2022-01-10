@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Musketi
+- 👋 Hi, I’m @Jimi
 - 👀 I’m interested in ...
   -Programming
   -Problem solving
