@@ -1,1 +1,6 @@
+Auton ja voikakkuleivän kokoamispeli (Car and breadcake puzzle game)
 
+my first C# made game in unity.
+This game was made with my classmates, for the elderly people.
+In the game, you can choose wheter you want to build a breadcake-car or a real car.
+Player must place the right object to the right place in order to win.
